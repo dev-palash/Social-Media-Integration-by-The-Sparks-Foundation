@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/grad1"
+    android:gravity="center"
+    tools:context=".Logout">
+<ImageView
+    android:layout_width="140dp"
+    android:layout_height="120dp"
+    android:id="@+id/image"
+    android:padding="15dp"
+    />
+    <TextView
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:id="@+id/textbtn"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#fafafa"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:id="@+id/log_out"
+        android:text="Log Out"
+        android:layout_marginTop="20dp"
+        android:background="#00e5ff"
+        android:textColor="#fafafa"
+        />
+
+</LinearLayout>

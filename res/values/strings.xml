@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyLog</string>
+    <string name="facebook_app_id">395693815101238</string>
+    <string name="fb_login_protocol_scheme">fb395693815101238</string>
+
+</resources>
